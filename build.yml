@@ -1,0 +1,7 @@
+# Habitus build file
+build:
+  version: 2016-03-14
+  steps:
+    builder:
+      name: depalma
+      dockerfile: Dockerfile
